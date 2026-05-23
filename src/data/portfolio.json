@@ -1,0 +1,104 @@
+{
+  "profile": {
+    "name": "Yogesh Bollu",
+    "shortName": "Yogesh",
+    "tagline": "Building intelligent digital experiences with modern full stack engineering and AI.",
+    "role": "Full Stack & AI Engineer",
+    "specialization": "AI/ML • Full Stack • UI/UX",
+    "location": "Maharashtra, India",
+    "yearsOfExperience": 0,
+    "bio": "I am a passionate Full Stack and AI Engineer focused on building modern web applications, intelligent systems and creative digital experiences through AI and user-centered design.",
+    "avatarSvg": "/avatar.png.png",
+    "social": {
+      "github": "https://github.com/Ybollu2407/",
+      "instagram": "https://www.instagram.com/y_bollu2020/?__pwa=1",
+      "linkedin": "https://www.linkedin.com/in/yogesh-bollu-842586399/",
+      "email": "bolluyogesh24@gmail.com",
+      "whatsapp": "https://wa.me/918010560097"
+    }
+  },
+
+  "skills": {
+    "categories": [
+      {
+        "name": "Frontend",
+        "items": ["React", "TypeScript", "Tailwind", "UI/UX"]
+      },
+      {
+        "name": "Backend",
+        "items": ["Node.js", "Express", "Python"]
+      },
+      {
+        "name": "AI / ML",
+        "items": ["Machine Learning", "NLP", "TensorFlow"]
+      }
+    ]
+  },
+
+  "experience": [
+    {
+      "company": "Independent Projects",
+      "role": "Full Stack & AI Developer",
+      "period": "2024 - Present",
+      "location": "India",
+      "summary": "Building AI applications and full stack products through academic and independent projects.",
+      "highlights": [
+        "AI Lawyer for the People",
+        "Mood Based Music Recommendation",
+        "Resume Parser using NLP",
+        "Blockchain Skill Verification"
+      ]
+    }
+  ],
+
+  "projects": [
+  {
+    "id": 1,
+    "title": "NYAYSETU",
+    "subtitle": "AI Legal Assistant",
+    "description": "AI-powered legal assistance system.",
+    "stack": ["React", "AI", "Python"],
+    "role": "Developer",
+    "year": "2025",
+    "link": "",
+    "image": "/ailawyer.png",
+    "highlight": true
+  },
+  {
+    "id": 2,
+    "title": "Team Task Manager",
+    "subtitle": "Productivity Platform",
+    "description": "Team collaboration and task management system.",
+    "stack": ["React", "Node", "MongoDB"],
+    "role": "Developer",
+    "year": "2024",
+    "link": "",
+    "image": "/taskmanager.png",
+    "highlight": false
+  },
+  {
+    "id": 3,
+    "title": "Blockchain Verification",
+    "subtitle": "Fake Product Identification System",
+    "description": "Blockchain-based fake product identification and verification platform.",
+    "stack": ["Blockchain", "Web", "Security"],
+    "role": "Developer",
+    "year": "2024",
+    "link": "",
+    "image": "/blockchain.png",
+    "highlight": false
+  }
+],
+
+  "education": [],
+
+  "testimonials": [
+    {
+      "id": 1,
+      "quote": "Creative and passionate builder.",
+      "name": "Innovation",
+      "role": "Mindset",
+      "avatarColor": "#9333EA"
+    }
+  ]
+}
