@@ -45,7 +45,7 @@
       "highlights": [
         "AI Lawyer for the People",
         "Mood Based Music Recommendation",
-        "Resume Parser using NLP",
+        "QuickAi - AI Saas Application",
         "Blockchain Skill Verification"
       ]
     }
@@ -63,6 +63,7 @@
    "year": "2026",
   "link": "https://quick-ai-mocha-tau.vercel.app/ai",
   "github": "https://github.com/Ybollu2407/QUICKAI",
+  "image": "/quickai.png",
   "highlight": true
 }
   {
@@ -88,7 +89,7 @@
     "link": "",
     "image": "/taskmanager.png",
     "link": "https://task-manager-roan-alpha.vercel.app/",
-    "github": "https://github.com/Ybollu2407/task-manager"
+    "github": "https://github.com/Ybollu2407/task-manager",
     "highlight": false
   },
   {
