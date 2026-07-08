@@ -121,7 +121,7 @@ export default function HeroSection() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/resumee.pdf"
             target="_blank"
             className="px-9 py-4 rounded-full border border-zinc-800 bg-zinc-900/30 text-zinc-200 font-medium hover:border-violet-500/40 hover:text-white hover:bg-zinc-900/60 transition-all duration-300"
           >
