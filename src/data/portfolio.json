@@ -85,10 +85,9 @@
     "stack": ["React", "Node", "MongoDB"],
     "role": "Developer",
     "year": "2024",
-    "link": "",
-    "image": "/taskmanager.png",
     "link": "https://task-manager-roan-alpha.vercel.app/",
     "github": "https://github.com/Ybollu2407/task-manager",
+    "image": "/taskmanager.png",
     "highlight": false
   },
   {
