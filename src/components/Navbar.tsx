@@ -45,7 +45,7 @@ export default function Navbar() {
 
         {/* RESUME BUTTON */}
         <motion.a
-          href="/resume.pdf"
+          href="/resumee.pdf"
           target="_blank"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.96 }}
