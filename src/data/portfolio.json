@@ -57,15 +57,14 @@
   "title": "QuickAI",
   "subtitle": "Full Stack AI SaaS Platform",
   "description": "Built a full-stack AI SaaS platform with multiple productivity tools including AI article generation, image generation, background removal, object removal and resume review. Implemented authentication, modern UI and AI integrations for content creation workflows.",
-  "image": "/quickai.png",
-  "stack": ["React","Node.js","Express","PostgreSQL","AI APIs","Tailwind CSS" ],
+  "stack": ["React","Node.js","Express","PostgreSQL","AI APIs","Tailwind CSS"],
    "role": "Developer",
    "year": "2026",
   "link": "https://quick-ai-mocha-tau.vercel.app/ai",
   "github": "https://github.com/Ybollu2407/QUICKAI",
   "image": "/quickai.png",
   "highlight": true
-}
+},
   {
     "id": 2,
     "title": "NYAYSETU",
