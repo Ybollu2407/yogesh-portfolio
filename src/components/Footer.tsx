@@ -74,7 +74,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/resumee.pdf"
               target="_blank"
               className="hover:text-violet-400 transition"
             >
