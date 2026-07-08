@@ -52,8 +52,21 @@
   ],
 
   "projects": [
+    {
+  "id": 1,
+  "title": "QuickAI",
+  "subtitle": "Full Stack AI SaaS Platform",
+  "description": "Built a full-stack AI SaaS platform with multiple productivity tools including AI article generation, image generation, background removal, object removal and resume review. Implemented authentication, modern UI and AI integrations for content creation workflows.",
+  "image": "/quickai.png",
+  "stack": ["React","Node.js","Express","PostgreSQL","AI APIs","Tailwind CSS" ],
+   "role": "Developer",
+   "year": "2026",
+  "link": "https://quick-ai-mocha-tau.vercel.app/ai",
+  "github": "https://github.com/Ybollu2407/QUICKAI",
+  "highlight": true
+}
   {
-    "id": 1,
+    "id": 2,
     "title": "NYAYSETU",
     "subtitle": "AI Legal Assistant",
     "description": "AI-powered legal assistance system.",
@@ -65,7 +78,7 @@
     "highlight": true
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Team Task Manager",
     "subtitle": "Productivity Platform",
     "description": "Team collaboration and task management system.",
@@ -74,10 +87,12 @@
     "year": "2024",
     "link": "",
     "image": "/taskmanager.png",
+    "link": "https://task-manager-roan-alpha.vercel.app/",
+    "github": "https://github.com/Ybollu2407/task-manager"
     "highlight": false
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Blockchain Verification",
     "subtitle": "Fake Product Identification System",
     "description": "Blockchain-based fake product identification and verification platform.",
