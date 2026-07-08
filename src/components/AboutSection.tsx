@@ -59,7 +59,7 @@ export default function AboutSection() {
 
           <div className="flex flex-wrap gap-4">
             <a
-              href="/resume.pdf"
+              href="/resumee.pdf"
               target="_blank"
               className="rounded-full bg-gradient-to-r from-violet-600 to-pink-500 px-8 py-4 text-white font-semibold shadow-[0_0_35px_rgba(168,85,247,0.35)] hover:scale-105 transition"
             >
